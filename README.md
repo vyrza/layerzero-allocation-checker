@@ -1,10 +1,10 @@
 # LayerZero Allocation Checker
 
-This script checks the LayerZero token allocation for Ethereum addresses using the LayerZero API. It supports proxy usage for making requests.
+This script checks the LayerZero token allocation using the LayerZero API. It supports proxy usage for making requests.
 
 ## Features
 
-- Checks LayerZero token allocation for multiple Ethereum addresses
+- Checks LayerZero token allocation for multiple addresses
 - Supports proxy usage for API requests
 - Displays allocation results in a neat, colored table format
 - Calculates and displays total allocation across all addresses
